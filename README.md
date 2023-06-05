@@ -74,7 +74,7 @@ Links used throughout this README:
 <!-- Edit the links below to be relevant -->
 
 [_Installing a GitHub App in your organization_ in GitHub Docs]: https://docs.github.com/en/github/customizing-your-github-workflow/purchasing-and-installing-apps-in-github-marketplace/installing-an-app-in-your-organization#installing-a-github-app-in-your-organization
-
+## Installed GitHub App for free Trail. 
 [creating a repository from a template]: https://docs.github.com/en/github/creating-cloning-and-archiving-repositories/creating-a-repository-from-a-template
 [_Creating a personal access token_ in GitHub Docs]: https://docs.github.com/en/github/authenticating-to-github/keeping-your-account-and-data-secure/creating-a-personal-access-token
 [_Available scopes_ in GitHub Docs]: https://docs.github.com/en/developers/apps/building-oauth-apps/scopes-for-oauth-apps#available-scopes
